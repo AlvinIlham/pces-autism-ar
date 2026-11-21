@@ -1,0 +1,126 @@
+# Unity generated folders & caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# IDE & OS files
+.vs/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Large binaries & archives (> 49MB)
+*.apk
+*.aab
+*.obb
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.mov
+*.blend1
+*.tgz
+
+# Files >= 45MB filtered for GitHub
+PCES/PCES/3D Assets/Jagung.fbx
+PCES/PCES/3D Assets/Pompom.fbx
+PCES/PCES/3d Model/Jagung.fbx
+PCES/PCES/3d Model/wall-mount-hook-hanger-clothes.zip
+PCES/PCES/Blender File/Buku.blend1
+PCES/PCES/Blender File/I want.blend1
+PCES/PCES/Blender File/I_want.blend
+PCES/PCES/Blender File/Jagung.blend
+PCES/PCES/Blender File/Kerupuk.blend
+PCES/PCES/Blender File/Kerupuk.blend1
+PCES/PCES/Blender File/Lego.blend
+PCES/PCES/Blender File/Pompom.blend
+PCES/PCES/Blender File/Pompom.blend1
+PCES/PCES/Blender File/Rakik_Kacang.blend
+PCES/PCES/Blender File/Rakik_Kacang.blend1
+PCES/PCES/Blender File/Squisy.blend1
+PCES/PCES/Blender File/Testing.blend1
+PCES/PCES/Blender File/Topi.blend
+PCES/PCES/desain 3d/jagung.glb
+PCES/PCES/desain 3d/kripik kacang2.glb
+PCES/PCES/Testing/Buku.blend
+PCES/PCES/Testing/Untitled.blend1
+PCES/PCES/3d Model/old-rags-raw-scans/source/old_rags_Bl_3_6/old_rags_Bl_3_6.blend
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes0.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes1.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes2.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes3.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes4.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes5.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes6.apk
+PCES/Kartu/Kartu/Aplikasi/PCES-Tes7.apk
+PCES/Kartu/Kartu/Library/ArtifactDB
+PCES/Kartu/Kartu/Packages/com.ptc.vuforia.engine-11.1.3.tgz
+PCES/Kartu/Kartu/Library/PlayerDataCache/Android/Data/data.unity3d
+PCES/Kartu/Kartu/Library/PackageCache/com.ptc.vuforia.engine@c33a8d5b6101/Vuforia/Plugins/OSXUniversal/universal/libVuforiaEngine.dylib
+PCES/Kartu/Kartu/Library/Bee/artifacts/objcopy_5lmi/libil2cpp.dbg.so
+PCES/Kartu/Kartu/Library/Bee/artifacts/objcopy_b9ry/libil2cpp.dbg.so
+PCES/Kartu/Kartu/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so
+PCES/Kartu/Kartu/Library/Bee/artifacts/Android/iz17e/libil2cpp.so
+PCES/Kartu/Kartu/Library/Bee/artifacts/Android/il2cppOutput/build/arm64-v8a/libil2cpp.dbg.so
+PCES/Kartu/Kartu/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/9d283196c4a4648079cffbb18b59949c/transformed/out/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/.transforms/99fdd7099aee0e6b628236ea2d56f756/transformed/out/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/local_aar_for_lint/release/out.aar
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/library_assets/release/out/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/caf88fe24308c04a8862ef0f6eb62df8/transformed/out/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/c2c8864c67b1390a8e88fb80a8b41fcc/transformed/out/assets/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/outputs/apk/release/launcher-release.apk
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/compressed_assets/release/out/assets/bin/Data/data.unity3d.jar
+PCES/Kartu/Kartu/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/assets/release/bin/Data/data.unity3d
+PCES/Kartu/Kartu/Library/Artifacts/26/26ecfab8c2bf0b1ff4897465720d78d1
+PCES/Kartu/Kartu/Library/Artifacts/2c/2c589dca45993a8f68c496938b798653
+PCES/Kartu/Kartu/Library/Artifacts/49/4999b63bf98adba94ff7daecc59db894
+PCES/Kartu/Kartu/Library/Artifacts/d1/d1021b5bb1398d576de0d75d60ac93db
+PCES/Kartu/Kartu/Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX
+PCES/Kartu/Kartu/Assets/3D Object/Jagung/Jagung.fbx
+PCES/Kartu/Kartu/Assets/3D Object/Pompom/Pompom 1.fbx
+PCES/Kartu/Kartu/Assets/3D Object/Pompom/Pompom 2.fbx
+PCES/Kartu/Kartu/Assets/3D Object/Pompom/Pompom.fbx
+PCES/Blender/Blender File/Buku.blend1
+PCES/Blender/Blender File/Gelas - revisi.blend
+PCES/Blender/Blender File/Gelas - revisi.blend1
+PCES/Blender/Blender File/I want.blend1
+PCES/Blender/Blender File/I_want.blend
+PCES/Blender/Blender File/Jagung.blend
+PCES/Blender/Blender File/Kerupuk.blend
+PCES/Blender/Blender File/Kerupuk.blend1
+PCES/Blender/Blender File/Lego.blend
+PCES/Blender/Blender File/Pompom-revisi.blend
+PCES/Blender/Blender File/Pompom-revisi.blend1
+PCES/Blender/Blender File/Pompom.blend
+PCES/Blender/Blender File/Pompom.blend1
+PCES/Blender/Blender File/Rakik_Kacang.blend
+PCES/Blender/Blender File/Rakik_Kacang.blend1
+PCES/Blender/Blender File/Salak.blend
+PCES/Blender/Blender File/Salak.blend1
+PCES/Blender/Blender File/Testing.blend1
+PCES/Blender/Blender File/Topi.blend
+PCES/Blender/Blender File Revisi/Kerupuk_Kulit.blend1
+PCES/Blender/Blender File Revisi/Pompom.blend

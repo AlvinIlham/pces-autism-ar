@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Kerupuk" size="1.000000 1.413774" />
+    <ImageTarget name="Rakik" size="1.000000 1.412969" />
+    <ImageTarget name="Buku" size="1.000000 1.413774" />
+    <ImageTarget name="Handuk" size="1.000000 1.412400" />
+    <ImageTarget name="Gelas" size="1.000000 1.413204" />
+    <ImageTarget name="HP" size="1.000000 1.413204" />
+    <ImageTarget name="I_See" size="1.000000 1.413774" />
+    <ImageTarget name="I_Want" size="1.000000 1.412969" />
+    <ImageTarget name="Jagung" size="1.000000 1.413774" />
+    <ImageTarget name="Lego" size="1.000000 1.413774" />
+    <ImageTarget name="Penghapus" size="1.000000 1.413774" />
+    <ImageTarget name="Pensil" size="1.000000 1.412969" />
+    <ImageTarget name="Piring" size="1.000000 1.413204" />
+    <ImageTarget name="Pompom" size="1.000000 1.413774" />
+    <ImageTarget name="Puzzle" size="1.000000 1.412969" />
+    <ImageTarget name="Salak" size="1.000000 1.412969" />
+    <ImageTarget name="Squishy" size="1.000000 1.412969" />
+  </Tracking>
+</QCARConfig>

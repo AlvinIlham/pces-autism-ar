@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Bola" size="1.000000 1.413774" />
+    <ImageTarget name="I_Want" size="1.000000 1.412969" />
+    <ImageTarget name="Puzzle" size="1.000000 1.412969" />
+    <ImageTarget name="Playdoh" size="1.000000 1.412969" />
+    <ImageTarget name="Penghapus" size="1.000000 1.413774" />
+    <ImageTarget name="Gelas" size="1.000000 1.413204" />
+  </Tracking>
+</QCARConfig>

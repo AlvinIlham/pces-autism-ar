@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TampilanAwal.unity
+    guid: 783245f8768a90f4d95e7d829478dbe9
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama.unity
+    guid: c1c974c35561c5a4e8c44cfd9a70e85e
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: 5ff05df4e533cb14894c3365356b0682
+  - enabled: 1
+    path: Assets/Scenes/Gambar.unity
+    guid: 7531295a4e4ccdf47a6cf74e8547cdda
+  - enabled: 1
+    path: Assets/Scenes/Langkah.unity
+    guid: e96bf7f4a6ad71846b30d2bea19b8f5e
+  - enabled: 1
+    path: Assets/Scenes/Developer.unity
+    guid: 504a0c67cb0752c4daeafb298e4f5e06
+  - enabled: 1
+    path: Assets/Scenes/Petunjuk.unity
+    guid: e1214af867e516148aa322ef2233a4ce
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 5847d05bcc46dab49b3b98ad698a5c6a
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: a9e015c4d8f07e44caa929fdb194df94
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: adb67e89cd823b544bc20bfafef949b7
+  - enabled: 1
+    path: Assets/Scenes/Fase4.unity
+    guid: 913321d2435b54a43ab76988d020222a
+  - enabled: 1
+    path: Assets/Scenes/Fase5.unity
+    guid: 01660b9a0127cf943a5e9bef2517c34d
+  - enabled: 1
+    path: Assets/Scenes/Fase6.unity
+    guid: e550f4af697b67b43a7fddab9a3c13a7
+  - enabled: 1
+    path: Assets/Scenes/Kebutuhan.unity
+    guid: 2b87051767c4ff04a89fff47ab526b67
+  - enabled: 1
+    path: Assets/Scenes/Mainan.unity
+    guid: 98f0d479150f17b4d91139ad53d1acad
+  - enabled: 1
+    path: Assets/Scenes/Makanan.unity
+    guid: 057462068c2541d47aa83eef51e980d6
+  - enabled: 1
+    path: Assets/Scenes/Benda.unity
+    guid: f6809c11243408a48acfb13523bea5ea
+  - enabled: 1
+    path: Assets/Scenes/Fase1_2.unity
+    guid: e3ed7c9cee215a7459f22d789ae1e3fb
+  - enabled: 1
+    path: Assets/Scenes/Fase1_3.unity
+    guid: c9e779bb08b5e634cb003424f6ca2b09
+  - enabled: 1
+    path: Assets/Scenes/Fase1_4.unity
+    guid: 147023b737bb0b84f93756a9d8bcf763
+  - enabled: 1
+    path: Assets/Scenes/Fase2_1.unity
+    guid: 09fbd43ebabcd5c4b999676c29039adb
+  - enabled: 1
+    path: Assets/Scenes/Fase2_2.unity
+    guid: 5a4276d2309557c4c91addb3a5ed8e08
+  - enabled: 1
+    path: Assets/Scenes/Fase2_3.unity
+    guid: 064afc381c154874787193eb43b3b5c3
+  - enabled: 1
+    path: Assets/Scenes/Fase3_1.unity
+    guid: efc173c228dcb3a4282ca3dba731281f
+  - enabled: 1
+    path: Assets/Scenes/Fase3_2.unity
+    guid: 8fddb571bd913354cbc1b6a45c40b970
+  - enabled: 1
+    path: Assets/Scenes/Fase3_3.unity
+    guid: ef139d51660194841ab72eed9c9c9748
+  - enabled: 1
+    path: Assets/Scenes/Fase4_2.unity
+    guid: 902f04084fd00d140b66a4b62dd5a803
+  - enabled: 1
+    path: Assets/Scenes/Fase4_1.unity
+    guid: 17269fd041f83554688e519c53feaa1e
+  - enabled: 1
+    path: Assets/Scenes/Fase4_3.unity
+    guid: 8057ad2862da3dc47b0af33e8fd90b4a
+  - enabled: 1
+    path: Assets/Scenes/Fase5_1.unity
+    guid: 0c61391e968736745b7eda9111810411
+  - enabled: 1
+    path: Assets/Scenes/Fase5_2.unity
+    guid: 142ca791109005145b29ac527a56c04a
+  - enabled: 1
+    path: Assets/Scenes/Fase5_3.unity
+    guid: 4928aea99a88a7d4c929f8a9b52784f8
+  - enabled: 1
+    path: Assets/Scenes/Fase6_1.unity
+    guid: 4b55b9c2bcbd4e944a6cc9d6d1351a94
+  - enabled: 1
+    path: Assets/Scenes/Fase6_2.unity
+    guid: 0375d9d1ff422d34d87f8dbe3d12814b
+  - enabled: 1
+    path: Assets/Scenes/Fase6_3.unity
+    guid: 23d7ac2602c37784a96c4c0cd744002f
+  - enabled: 1
+    path: Assets/Scenes/Prasyarat.unity
+    guid: c74dce5a5163dd347b92f6b83aea971e
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aaa47dbdf37cdf948b70ea06f0385930,
+      type: 2}
